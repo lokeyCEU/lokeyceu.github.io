@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Mitchell Lokey"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -25,7 +25,7 @@ author:
   avatar           : "profile.png"
   name             : "Mitch Lokey"
   pronouns         : # example: "she/her"  
-  bio              : "PhD Candidate"
+  bio              : "PhD Candidate in Molecular Biology & Genetics studying the evolution of deleterious variation with applications in conesrvation genetics."
   location         : "Ithaca, NY"
   employer         : "Cornell University"
   uri              : # URL
@@ -51,7 +51,7 @@ author:
 
   # Social media
   bluesky          : # "bsky.app" # Replace this with you Bluesky username
-  linkedin         : "https://www.linkedin.com/in/mitchlokeyceu/"
+  linkedin         : "mitchlokeyceu"
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
