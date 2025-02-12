@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: 'Evolution | Data Science | Genetics'
+title: "Evolution \| Data Science \| Genetics"
 author_profile: true
 redirect_from: 
   - /about/
@@ -13,5 +13,5 @@ My career has been motivated by a determination to understand evolution. In this
 ### PhD Research
 I am currently a PhD candidate in the department of [Molecular Biology & Genetics](https://cals.cornell.edu/molecular-biology-genetics) in the [College of Agriculture and Life Sciences](https://cals.cornell.edu/) at Cornell University with Profs [Andrew Clark](https://blogs.cornell.edu/andyclarklab/home/) and [Philipp Messer](https://messerlab.org/). My dissertation work focuses on understanding the interplay of population genetic processes in shaping deleterious variation in populations of conservation concern. Although natural selection deterministically acts to decrease the frequency of deleterious genetic variation, population size changes, especially to low sizes, increase the stochastic process of random genetic drift. Furthermore, the combined distributions of dominance and fitness effects of deleterious variants greatly impacts the evolutionary trajectory of such mutations. As we seek to utilize genomic data for conservation we need to elucidate the combined roles of demography, inbreeding, dominance, drift, and selection in shaping expected burdens of deleterious variation for populations of conservation concern. I've sought to contribute to this effort and add principled methods and recommendations for using genomic tools to improve conservation management.
 
-
-[Download my CV here](https://lokeyceu.github.io/files/LokeyCV.pdf)
+### Resume / CV
+[Download Here](https://lokeyceu.github.io/files/LokeyCV.pdf)
