@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Evolution \| Data Science \| Genetics"
+title: "Evolution | Data Science | Genetics"
 author_profile: true
 redirect_from: 
   - /about/
