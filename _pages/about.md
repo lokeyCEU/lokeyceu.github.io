@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-#### [Download My CV Here](https://lokeyceu.github.io/files/LokeyCV.pdf)
+### [Download My CV Here](https://lokeyceu.github.io/files/LokeyCV.pdf)
 
 ### My Mission - Applying Lessons from Evolution
 My career has been motivated by a determination to understand evolution. In this pursuit I found a love for population genetics, quantitative genetics, statistical methods, and data science. My goal is to apply the skills I cultivate to real-world problems. During my PhD I contributed to the development of computational genetic methods that improve conservation efforts. I believe that computational biology and genetics has an important part to play in improving human health, agriculture, and conservation to make a better future for everyone and I am excited to be a part of it.
